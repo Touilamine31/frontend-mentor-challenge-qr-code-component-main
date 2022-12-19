@@ -42,7 +42,7 @@ h1{
 }
 
 p{
-    color: hsl(220, 15%, 45%);
+    opacity: .7;
     font-weight: 400;
     font-size: 1rem;
 }
